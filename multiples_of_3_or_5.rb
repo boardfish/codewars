@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/514b92a657cdc65150000006
+
 def solution(number)
   s=0
   (number-1).times{|i| x=i+1
